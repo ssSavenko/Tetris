@@ -1,0 +1,20 @@
+.container{
+    display: inline-block;
+    padding: 20px;
+}
+
+.page{
+    max-width: 950px;
+    text-align: center;
+}
+
+.infoContainer{
+    vertical-align: top;
+    text-align: left;
+}
+
+canvas{
+    display: inline-block; 
+    border: 1px black solid; 
+    margin: 0 auto;
+}
